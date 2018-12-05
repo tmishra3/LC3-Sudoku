@@ -1,4 +1,7 @@
-﻿;CHECKPOINT 1
+;Written by Tanmay Mishra
+;For ECE 190 Fall 2010
+
+;CHECKPOINT 1
 ;The purpose of this program is to do two tasks. The first task is to draw
 ;out a Sudoku gameboard and also accordingly fill in the values - which are
 ;loaded from a memory location. Our information is stored from left to right
