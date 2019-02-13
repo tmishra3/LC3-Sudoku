@@ -1,6 +1,5 @@
 ;Written by Tanmay Mishra
-;For ECE 190 Fall 2010
-
+;
 ;===============Display================
 ;--------------------------------------
 ;R0: OUT,PUT Register.
